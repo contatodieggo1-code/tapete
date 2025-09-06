@@ -35,7 +35,7 @@ export const productConfigs: ProductImageConfig[] = [
     images: [
       {
         id: 'main-60x60',
-        src: '/images/tapete-60x60-principal.jpg', // Substitua pelo caminho da sua imagem real
+        src: '/public/images/tapete-60x60-principal.jpg', // Substitua pelo caminho da sua imagem real
         alt: 'Tapete Higiênico 60x60cm - Vista principal',
         caption: 'Tapete Higiênico Premium 60x60cm'
       },
